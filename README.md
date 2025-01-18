@@ -1,2 +1,3 @@
 # apnaskills-navin
-It is my first repositotry
+It is my first repository
+
